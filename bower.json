@@ -1,4 +1,5 @@
 {
+  "name": "togeojson",
   "version": "0.7.0",
   "main": "togeojson.js",
   "repository": {
