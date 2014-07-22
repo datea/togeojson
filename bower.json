@@ -1,7 +1,10 @@
 {
   "version": "0.7.0",
   "main": "togeojson.js",
-  "repo": "git://github.com/mapbox/togeojson.git",
+  "repository": {
+		"type": "git",
+		"url": "git://github.com/mapbox/togeojson"
+	},
   "keywords": [
     "kml",
     "geojson",
